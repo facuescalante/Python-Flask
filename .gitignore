@@ -1,3 +1,5 @@
 **/venv
 .vscode
 **/lib
+pyvenv.cfg
+__pycache__
